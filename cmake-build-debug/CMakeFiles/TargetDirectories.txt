@@ -1,0 +1,4 @@
+D:/c++program-GFG/cmake-build-debug/CMakeFiles/c__program_GFG.dir
+D:/c++program-GFG/cmake-build-debug/CMakeFiles/tuple.dir
+D:/c++program-GFG/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++program-GFG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
